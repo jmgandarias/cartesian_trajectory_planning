@@ -1,12 +1,13 @@
 # cartesian_trajectory_planning_private
 
-Private repo for the Cartesian trajectory planning fro the advanced robotics course
+Public repo for the Cartesian trajectory planning from the advanced robotics course
 
-A full tutorial for a 6 DOF robot for intermediate ROS 2 users.
+This package was inspired by the [full tutorial for a 6 DOF robot](https://control.ros.org/humble/doc/ros2_control_demos/example_7/doc/userdoc.html) from [ros2 control](https://control.ros.org/humble/doc/getting_started/getting_started.html).
 
-It consists of the following:
+The package is structured as follows
 
 * bringup: launch files and ros2_controller configuration
+* config/poses.yaml: YAML file with the poses to test the linear
 * controller: a controller for the 6-DOF robot
 * description: the 6-DOF robot description
 * hardware: ros2_control hardware interface
