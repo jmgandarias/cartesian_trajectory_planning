@@ -1,6 +1,6 @@
 # cartesian_trajectory_planning_private
 
-Public repo for the Cartesian trajectory planning from the advanced robotics course
+Public repo for the Cartesian trajectory planning from the [Advanced Robotics Course](https://jmgandarias.com/advanced_robotics/) from the University of Málaga.
 
 This package was inspired by the [full tutorial for a 6 DOF robot](https://control.ros.org/humble/doc/ros2_control_demos/example_7/doc/userdoc.html) from [ros2 control](https://control.ros.org/humble/doc/getting_started/getting_started.html).
 
